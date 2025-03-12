@@ -1,1 +1,1 @@
-# calebmeinke-October2024_DatabaseAnalytics_HW19
+# calebmeinke-October2024_DatabaseAnalytics_HW19 - Access the Crypto_Clustering_Analysis.ipynb file to review code for unsupervised machine learning that predicts if cryptocurrencies are affected by 24-hour or 7-day price changes.
